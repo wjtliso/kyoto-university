@@ -1,2 +1,3 @@
-kyoto-university
-================
+# Kyoto University
+
+## GitHub Class
